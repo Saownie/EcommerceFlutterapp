@@ -60,7 +60,7 @@ class IntroPage extends StatelessWidget {
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   color: Colors.white,
-                  fontSize: 28,
+                  fontSize: 29,
                 ),
                 ),
               ),
