@@ -53,14 +53,14 @@ class IntroPage extends StatelessWidget {
               ),
               child: Container(
                 decoration: BoxDecoration(color: const Color.fromARGB(255, 109, 103, 47),
-                borderRadius: BorderRadius.circular(10)
+                borderRadius: BorderRadius.circular(11)
                 ),
                 padding: EdgeInsets.all(25),
                 child:const Text('Shop Now',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   color: Colors.white,
-                  fontSize: 29,
+                  fontSize: 30,
                 ),
                 ),
               ),
