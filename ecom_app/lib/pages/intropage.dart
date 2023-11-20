@@ -21,7 +21,7 @@ class IntroPage extends StatelessWidget {
               height: 150,
               ),
             ),
-            const SizedBox(height: 38),
+            const SizedBox(height: 40),
             
       
             //title
